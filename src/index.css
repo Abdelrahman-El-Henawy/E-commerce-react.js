@@ -1,0 +1,182 @@
+:root{
+  --main-color: #4FA74F;
+  --background-light-color: #4fa74f53;
+}
+/* @media screen and (max-width: 900px) and (min-width: 600px), (min-width: 1100px) */
+.navbar{
+  padding-block: 3px;
+  background-color: #fff;
+  z-index: 2;
+}
+h3{
+  color: var(--main-color);
+  font-weight: 400;
+  text-align: center;
+}
+.margin{
+  margin-top: 7%;
+}
+
+.link{
+  transition: 0.4s all ease-in-out;
+  padding: 15px 25px;
+  font-size: 16px;
+  text-align: center;
+  display: block;
+  font-weight: 700;
+  text-transform: capitalize;
+  position: relative;
+}
+.link::after{
+  content:"";
+  position: absolute;
+  width: 0%;
+  height: 3px;
+  background-color: var(--main-color);
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  transition: 0.4s all ease-in-out;
+}
+.link:focus::after,.link:hover::after{
+  width: 100%;
+}
+.link:hover .icon{
+  transition: 0.4s all ease-in-out;
+  color: var(--main-color)
+
+}
+.hourglass{
+  background-color: var(--background-light-color);
+}
+@media screen and (max-width: 430px){
+  .navbar{
+    padding-block: 5px;
+    background-color: #eee;
+  }
+  .firstNav{
+    text-align: center;
+    margin-top: 5px;
+    width: 100%;
+  }
+  .link{
+    width: fit-content;
+    margin: 0 auto;
+  }
+  .socialIcons i{
+    margin-inline: 15px;
+  }
+  .secondNav{
+    margin-top: 10px;
+    margin-inline: auto;
+  }
+}
+@media screen and (min-width: 430px) and (max-width: 991.8px){
+  .navbar{
+    padding-block: 8px;
+    background-color: #eee;
+  }
+  .firstNav{
+    margin-top: 10px;
+    width: 50%;
+    float: left;
+  }
+  .secondNav{
+    margin-top: 10px;
+    margin-inline: auto;
+    width: 50%;
+  }
+  .link{
+    width: 100%;
+    text-align: center;
+  }
+}
+.button{
+  position: absolute;
+  background-color: var(--main-color);
+  top: -40px;
+  left: -40px;
+  transition: 0.7s all ease-in-out;
+  width: 42%;
+  height: 40px;
+  border: none;
+  outline: none;
+}
+.button2{
+  position: absolute;
+  background-color: var(--main-color);
+  right: -40px;
+  top: -40px;
+  transform: translateY(-50%);
+  width: 42%;
+  height: 40px;
+  border: none;
+  outline: none;
+  transition: 0.7s all ease-in-out;
+}
+.overlay{
+  background-color: #0000005f;
+  transition: 0.7s all ease-in-out;
+  opacity: 0;
+  z-index: 8;
+}
+.iconOverlay{
+  position: absolute;
+  bottom: -40px;
+  transition: 0.7s all ease-in-out;
+  color: var(--main-color)
+}
+.card1{
+  border: 0;
+  transition: 0.7s all ease-in-out;
+  z-index: 1;
+}
+.card1:hover{
+  box-shadow: 0px 0px 15px 0px var(--main-color);
+}
+.card1:hover .button{
+  background-color: var(--main-color);
+  top: 6%;
+  left: 6%;
+  transform: translateY(-50%);
+}
+.card1:hover .button2{
+  background-color: var(--main-color);
+  top: 6%;
+  right: 6%;
+  /* transform: translateY(-50%); */
+}
+.card1:hover .iconOverlay{
+  bottom: 43%;
+  transform: translateY(-50%);
+}
+.card1:hover .overlay{
+  opacity: 1;
+}
+.scrollToTop{
+  bottom : 10px;
+  right: 10px;
+  cursor: pointer;
+}
+.scrolling{
+  background-color: var(--main-color) !important;
+  color: #fff !important;
+}
+.Car{
+  height: 500px;
+}
+.imageDetails{
+  height: 560px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.minHeight{
+  min-height: 100vh;
+}
+.minHeight1{
+  min-height: 50vh;
+}
+footer{
+  /* height: 300px; */
+  padding: 2rem;
+}
