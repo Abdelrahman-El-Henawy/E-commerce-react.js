@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/E-commerce-react.js/static/css/main.e63643bb.css",
+    "main.js": "/E-commerce-react.js/static/js/main.cc75afac.js",
+    "static/media/fa-solid-900.ttf": "/E-commerce-react.js/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/slider-image-1.jpeg": "/E-commerce-react.js/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
+    "static/media/fa-brands-400.ttf": "/E-commerce-react.js/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/slider-image-3.jpeg": "/E-commerce-react.js/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
+    "static/media/slider-image-2.jpeg": "/E-commerce-react.js/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
+    "static/media/fa-solid-900.woff2": "/E-commerce-react.js/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/E-commerce-react.js/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/google-play-badge-logo-png-transparent.png": "/E-commerce-react.js/static/media/google-play-badge-logo-png-transparent.6a0c5cef7b7fe0cbfbec.png",
+    "static/media/download-on-the-app-store-apple-logo-png-transparent.png": "/E-commerce-react.js/static/media/download-on-the-app-store-apple-logo-png-transparent.4f4beccb083f0148f39a.png",
+    "static/media/MasterCard_Logo.svg.webp": "/E-commerce-react.js/static/media/MasterCard_Logo.svg.cbdfb6078b7efff912d4.webp",
+    "static/media/2560px-Amazon_Pay_logo.svg.png": "/E-commerce-react.js/static/media/2560px-Amazon_Pay_logo.svg.f1d7ed8012ba50041d47.png",
+    "static/media/PayPal.svg.png": "/E-commerce-react.js/static/media/PayPal.svg.088671dded675d04af8f.png",
+    "static/media/fa-regular-400.ttf": "/E-commerce-react.js/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/fa-regular-400.woff2": "/E-commerce-react.js/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/XCM_Manual_1533480_5305769_379x304_1X._SY304_CB616236518_.jpg": "/E-commerce-react.js/static/media/XCM_Manual_1533480_5305769_379x304_1X._SY304_CB616236518_.96a08320f0007d30af67.jpg",
+    "static/media/th.jpeg": "/E-commerce-react.js/static/media/th.652d54806b6a1f9e9a86.jpeg",
+    "static/media/XCM_Manual_1396328_4379575_Egypt_EG_BAU_GW_DC_SL_Bags_Wallets_379x304_1X._SY304_CB650636675_.jpg": "/E-commerce-react.js/static/media/XCM_Manual_1396328_4379575_Egypt_EG_BAU_GW_DC_SL_Bags_Wallets_379x304_1X._SY304_CB650636675_.941f444ea4800c7f2e40.jpg",
+    "static/media/freshcart-logo.svg": "/E-commerce-react.js/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.ttf": "/E-commerce-react.js/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/E-commerce-react.js/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/slick.svg": "/E-commerce-react.js/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/E-commerce-react.js/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/E-commerce-react.js/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/E-commerce-react.js/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/E-commerce-react.js/index.html",
+    "main.e63643bb.css.map": "/E-commerce-react.js/static/css/main.e63643bb.css.map",
+    "main.cc75afac.js.map": "/E-commerce-react.js/static/js/main.cc75afac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e63643bb.css",
+    "static/js/main.cc75afac.js"
+  ]
+}
